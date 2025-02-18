@@ -43,5 +43,11 @@ def dashboard():
     st.write("📌 **Gestão de Qualidade de Vida:** Melhorar descanso e recuperação para performance sustentável.")
 
     # Sugestões de Treinamentos
-    st.subheader("🎯 Sugestões
+    st.subheader("🎯 Sugestões de Treinamentos")
+    st.write("✅ **Liderança Estratégica e Gestão de Mudança** – Inova & Educa")
+    st.write("✅ **Comunicação Assertiva e Gestão de Relacionamentos** – Inova & Educa")
+    st.write("✅ **Gestão do Estresse e Performance** – Inova & Educa")
+    st.write("✅ **Sensorial Moove – Desenvolvimento Cognitivo**")
 
+if __name__ == "__main__":
+    dashboard()
